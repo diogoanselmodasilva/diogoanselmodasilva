@@ -16,6 +16,7 @@ Aberto a colaborar em projetos interessantes e inovadores.
 	<img align="center" alt="javascript" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoanselmodasilva&hide_progress=true)](https://github.com/diogoanselmodasilva/github-readme-stats)
+##SO
 
-[![diogoanselmo stats](https://github-readme-stats.vercel.app/api/wakatime?username=diogoanselmo)](https://github.com/diogoanselmodasilva/github-readme-stats)
+![diogo anselmo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoanselmo&show_icons=true&theme=dracula)
+[![diogoanselmo stats](https://github-readme-stats.vercel.app/api/wakatime?username=diogoanselmo)](https://github.com/anuragzhara/github-readme-starts)
