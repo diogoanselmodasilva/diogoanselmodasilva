@@ -11,7 +11,7 @@ Aberto a colaborar em projetos interessantes e inovadores.
 
 ## Tecnologias que eu uso no meu dia
 <div style="display:inline_block"><br/>
-	<img align="center" alt="javascript" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+	<img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 	<img align="center" alt="C" src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white"/>
 	<img align="center" alt="python" src="https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
